@@ -1,5 +1,5 @@
 # Python-for-Data-Analyst
-In this repository I will guide you the basics of Python programming that is useful for Data Analysts for performing their day to day tasks like:
+I will guide you through the basics of Python programming that is useful for Data Analysts for performing their day to day tasks like let me know if in case you have any doubt:
 
 * Exploratory data analysis using libraries like NumPy, Pandas, Matplotlib, Seaborn.
 * Data Manipulation
